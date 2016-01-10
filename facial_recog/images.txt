@@ -1,0 +1,5 @@
+/facedata/sam_nguyen_01.jpg;0
+/facedata/sam_nguyen_02.jpg;0
+/facedata/sam_nguyen_03.jpg;0
+/facedata/sam_nguyen_04.jpg;0
+/facedata/sam_nguyen_05.jpg;0
